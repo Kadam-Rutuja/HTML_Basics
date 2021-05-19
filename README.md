@@ -8,4 +8,7 @@ Simple html document,HTML tags, Headings
 
 ![image](https://user-images.githubusercontent.com/82764021/118860933-915b9d80-b8f9-11eb-9d51-4681b17096aa.png)
 
+![image](https://user-images.githubusercontent.com/82764021/118861125-c9fb7700-b8f9-11eb-82c1-108af6657e9b.png)
+
+
 
